@@ -1,0 +1,39 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+p{
+	display:none;
+	background-color:purple;
+}
+div{
+	width:400px;
+	background-color:yellow;
+	text-align:center;
+	margin:0;
+}
+
+div:hover p{
+	display:block;
+}
+a{
+	font-size:1.2em;
+	font-family:serif;
+	text-decoration:none;
+}
+a:link{
+	color:blue;
+}
+a:visited{
+	color:green;
+}
+a:hover{
+	color:grey;
+}
+a:active{
+	color:black;
+}
+a:first-child strong{
+	color:red;
+}

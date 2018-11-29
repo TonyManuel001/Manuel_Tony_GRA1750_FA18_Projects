@@ -1,0 +1,30 @@
+#Title{
+	font-size: 30px;
+	color: white;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	padding: 0 30px;
+	display: inline-block; 
+}
+#FiveGuys{
+	background-color: #970000;
+	width: 480px;
+}
+#Saying{
+	position: relative;
+	top: -200px;
+	left: 0px;
+	color:#F9F9F9;
+	font-size: 20px;
+}
+#Saying2{
+	position: relative;
+	top: -280px;
+	left: 0px;
+	color: #810707;
+	font-size: 20px;
+}
+

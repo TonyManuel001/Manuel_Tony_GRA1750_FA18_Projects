@@ -1,0 +1,15 @@
+body{
+	background-color: #08D5C5;
+	width:500px;
+	margin:0 auto;
+}
+div{
+	background-color: yellow;
+	margin:0 auto;
+	padding-top: 45px;
+}
+p{
+font-family: helvetica, serif;
+color: green;
+text-align: center
+}

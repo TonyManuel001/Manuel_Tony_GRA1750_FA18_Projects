@@ -1,0 +1,146 @@
+body{
+	background-color: #6A1300;
+}
+img{
+	display: block;
+    
+}
+ul{
+	color: white;
+	list-style-type: none;
+	
+}
+li{
+	display: inline-block;
+	padding-right: 80px;
+
+}
+.sizing{
+	width:1000px;
+	margin:0 auto;
+}
+#ryan{
+	color: #FCFBFB;
+	position: relative;
+	left: 200px;
+	top: -215px;
+	width:400px;
+}
+#morena{
+	color: #FCFBFB;
+	position: relative;
+	left: 200px;
+	top: -215px;
+	width:400px;
+}
+#ed{
+	color: #FCFBFB;
+	position: relative;
+	left: 200px;
+	top: -215px;
+	width:400px;
+}
+#edpic{
+	position: relative;
+	top: -20px;
+}
+.section{
+	background-color:#FCFBFB;
+	width:1000px;
+	height: 15px;
+	margin: 0 auto;
+	position: relative;
+	top:-120px;
+}
+#tim{
+	color: #FCFBFB;
+	position: relative;
+	left: 200px;
+	top: -215px;
+	width:400px;
+}
+#fox{
+	color: #FCFBFB;
+	position: relative;
+	left: 200px;
+	top: -210px;
+	width:400px;
+}
+#synopsis{
+	color: #FCFBFB;
+	position: relative;
+	top:-115px;
+}
+#trailer{
+	position: relative;
+	left: 200px;
+	top: -120px;
+	width:400px;
+}
+.gallery{
+	width:1000px;
+	height: 15px;
+	margin: 0 auto;
+	position: relative;
+	top:-100px;
+}
+.gallery img{
+	padding-bottom: 10px;
+	display: inline-block;
+	padding-right: 40px;
+	padding-left: 30px;
+}
+.soundtrack{
+	width:1000px;
+	height: 15px;
+	margin: 0 auto;
+	position: relative;
+	top:100px;
+	text-align: center;
+	font-size: 40px;
+}
+.soundtrack a{
+	color: white;
+}
+.soundtrack a:visited{
+
+	color: #CA2400;
+}
+.share{
+	width:500px;
+	height: 15px;
+	margin: 0 auto;
+	position: relative;
+	top:145px;
+}
+.share img{
+padding-bottom: 10px;
+	display: inline-block;
+	padding-right: 40px;
+	padding-left: 30px;
+
+}
+#critics{
+	background-color:#B4AFAE;
+	width:1000px;
+	height: 400px;
+	margin: 0 auto;
+	position: relative;
+	top:250px;
+}
+#policy{
+	width:1000px;
+	height: 15px;
+	margin: 0 auto;
+	position: relative;
+	top:230px;
+	text-align: center;
+	font-size: 40px;
+}
+#policy a{
+	color: white;
+}
+#policy a:visited{
+
+	color: #CA2400;
+}
